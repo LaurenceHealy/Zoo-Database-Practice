@@ -1,0 +1,16 @@
+C:\Users\laure\Desktop\dbpractice\dbpractice\bin\Debug\dbpractice.exe.config
+C:\Users\laure\Desktop\dbpractice\dbpractice\bin\Debug\dbpractice.exe
+C:\Users\laure\Desktop\dbpractice\dbpractice\bin\Debug\dbpractice.pdb
+C:\Users\laure\Desktop\dbpractice\dbpractice\obj\Debug\dbpractice.csproj.AssemblyReference.cache
+C:\Users\laure\Desktop\dbpractice\dbpractice\obj\Debug\dbpractice.csproj.SuggestedBindingRedirects.cache
+C:\Users\laure\Desktop\dbpractice\dbpractice\obj\Debug\MainWindow.g.cs
+C:\Users\laure\Desktop\dbpractice\dbpractice\obj\Debug\App.g.cs
+C:\Users\laure\Desktop\dbpractice\dbpractice\obj\Debug\dbpractice_MarkupCompile.cache
+C:\Users\laure\Desktop\dbpractice\dbpractice\obj\Debug\dbpractice_MarkupCompile.lref
+C:\Users\laure\Desktop\dbpractice\dbpractice\obj\Debug\MainWindow.baml
+C:\Users\laure\Desktop\dbpractice\dbpractice\obj\Debug\dbpractice.g.resources
+C:\Users\laure\Desktop\dbpractice\dbpractice\obj\Debug\dbpractice.Properties.Resources.resources
+C:\Users\laure\Desktop\dbpractice\dbpractice\obj\Debug\dbpractice.csproj.GenerateResource.cache
+C:\Users\laure\Desktop\dbpractice\dbpractice\obj\Debug\dbpractice.csproj.CoreCompileInputs.cache
+C:\Users\laure\Desktop\dbpractice\dbpractice\obj\Debug\dbpractice.exe
+C:\Users\laure\Desktop\dbpractice\dbpractice\obj\Debug\dbpractice.pdb
